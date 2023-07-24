@@ -1,0 +1,40 @@
+#main {
+    background: linear-gradient(0deg, rgb(247, 130, 255), rgb(225, 175, 255));
+}
+
+#top { 
+    margin-top: 100px;
+    font-family: Caslon, Mercury, Display, Kis, Impact;
+    text-align: center;
+    color: rgb(111, 81, 255);
+    margin-bottom: 100px;
+   
+  
+}
+#Pictures {
+    width: 150px;
+    height: 150px;
+    border-radius: 400px;
+}
+.Links-Block{
+    margin-top: 32px;
+    padding-right: 540px;
+    padding-left: 520px;
+    padding-bottom: 148px;
+    
+}
+.links{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-bottom: 16px;
+    border: 10px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    color: rgba(140, 75, 101, 0.24);
+    box-shadow: rgba(140, 75, 101, 0.24) 2px 8px 8px 2px;
+    transform: scale(1);
+    transition: transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s, box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s;
+    border-radius: 30px;
+    padding-left: 44px;
+    padding-right: 22px;
+    padding-top: 25px;
+}
